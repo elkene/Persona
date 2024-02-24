@@ -77,7 +77,7 @@ public class Persona {
     }
     public void infofinal(String comida, int horas, String tipoEjercicio)
     {
-        System.out.println(nombre +" de " + edad +" años "+" vive en " + direccion + " en la ciudad de " + ciudad +  " y el esta comiendo " + comida + ", despues de comer se puso a dormir " + horas + " horas" + ", ya que mañana tiene que hacer " + tipoEjercicio);
+        System.out.println(nombre +" de " + edad +" años "+"vive en " + direccion + " en la ciudad de " + ciudad +  " y el esta comiendo " + comida + ", despues de comer se puso a dormir " + horas + " horas" + ", ya que mañana tiene que hacer " + tipoEjercicio);
     }
     
     public static void main(String[] args) {
